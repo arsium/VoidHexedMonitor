@@ -21,7 +21,7 @@ The project will remain closed-source (binaries only) until further notice, and 
 - **Linux & Windows client**
 - **Standalone client** — no .NET runtime required on the target machine
 - **x64 only**
-- **And many more ** - See COMMANDS.pdf
+- **And many more** - See COMMANDS.pdf
 - The interface might look familiar 😉
 
 ## Commands
